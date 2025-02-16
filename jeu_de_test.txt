@@ -1,0 +1,64 @@
+﻿					Jeu de test
+	
+
+24
+2
+Z
+3
+E
+1
+AN
+Anniversaires
+Anniversaires de mes proches
+8
+Z
+9
+2
+1
+5
+Z
+7
+CO
+Anniversaire de ma copine
+Anniversaire surprise dans le sud de la France
+2022
+2023
+02
+30
+28
+10
+60
+45
+2023
+01
+02
+28
+9
+10
+48
+5
+A
+9
+o
+O
+S
+1
+TEST DELETE
+AGENDA A SUPPRIMER
+9
+3
+3
+2
+n
+N
+Z
+2
+3
+1
+5
+Z
+6
+Z
+9
+4
+
